@@ -1,0 +1,14 @@
+# Ignore Project Report
+Project Report.docx
+*.docx
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
